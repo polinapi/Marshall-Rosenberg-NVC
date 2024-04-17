@@ -1,439 +1,461 @@
-# Power of Empathy - Session #7 - Nonviolent Communication Training - Marshall Rosenberg
+# Die Kraft der Empathie - Sitzung #7 - Gewaltfreie Kommunikationstraining - Marshall Rosenberg
 
-> I'll be showing the power that empathy has in three functions, **healing**, **mediation**, and **reconciliation**. In the previous session, we looked at the dynamics of empathy. We saw how it requires our full presence to another person, and full presence on what's alive in them, what they're feeling and needing. 
+> Ich werde die Kraft zeigen, die Empathie in drei Funktionen hat: **Heilung**, **Vermittlung** und **Versöhnung**. In der vorherigen Sitzung haben wir die Dynamik der Empathie betrachtet. Wir haben gesehen, wie sie unsere volle Präsenz für eine andere Person erfordert, und volle Aufmerksamkeit darauf, was in ihnen lebendig ist, was sie fühlen und brauchen.
 
-> In this session, I will show just how powerful that process can be in *healing past wounds*, *mediating conflicts between people*, and *reconciling groups that are at war with each other to see how they can live in peace and harmony*. 
+> In dieser Sitzung werde ich zeigen, wie mächtig dieser Prozess bei der *Heilung vergangener Wunden*, der *Vermittlung von Konflikten zwischen Menschen* und der *Versöhnung von Gruppen, die miteinander im Krieg sind, um zu sehen, wie sie in Frieden und Harmonie leben können*, sein kann.
 
-[NVC Training Course Session 7 Marshall Rosenberg CNVC org](https://www.youtube.com/watch?v=SA2qpg8De-0&list=PLPNVcESwoWu4lI9C3bhkYIWB8-dphbzJ3&index=7)
+[NVC Trainingskurs Sitzung 7 Marshall Rosenberg CNVC org](https://www.youtube.com/watch?v=SA2qpg8De-0&list=PLPNVcESwoWu4lI9C3bhkYIWB8-dphbzJ3&index=7)
 
 [![](http://i.imgur.com/ehy0DcE.png)](https://www.youtube.com/watch?v=SA2qpg8De-0&list=PLPNVcESwoWu4lI9C3bhkYIWB8-dphbzJ3&index=7)\
 
-Buy this course at [Soundstrue.com](https://nonviolent-communication-sfm.soundstrue.com/)!!! 
+Kaufen Sie diesen Kurs bei [Soundstrue.com](https://nonviolent-communication-sfm.soundstrue.com/)!!!
 
-## Contents
+## Inhalte
 
-* [Introduction](#introduction)
-* [Healing Empathy](#healing-empathy)
-  * [Role Play](#role-play)
-* [Meditation](#mediation)
-  * [Married Couples](#married-couples)
-  * [Warring tribes](#warring-tribes)
-* [Reconciliation](#reconciliation)
-* [Resources](#resources)
+* [Einführung](#einführung)
+* [Heilende Empathie](#heilende-empathie)
+  * [Rollenspiel](#rollenspiel)
+* [Vermittlung](#vermittlung)
+  * [Verheiratete Paare](#verheiratete-paare)
+  * [Kriegführende Stämme](#kriegführende-stämme)
+* [Versöhnung](#versöhnung)
+* [Ressourcen](#ressourcen)
 
-## Introduction
+## Einführung
 
 0:00  
-In this session, I'll be showing the power that empathy has in three functions, **healing**, **mediation**, and **reconciliation**. 
+In dieser Sitzung werde ich die Kraft zeigen, die Empathie in drei Funktionen hat: **Heilung**, **Vermittlung** und **Versöhnung**.
 
-In the previous session, we looked at the dynamics of empathy. We saw how it requires our full presence to another person, and full presence on what's alive in them, what they're feeling and needing. 
+In der vorherigen Sitzung haben wir die Dynamik der Empathie betrachtet. Wir haben gesehen, wie sie unsere volle Präsenz für eine andere Person erfordert, und volle Aufmerksamkeit darauf, was in ihnen lebendig ist, was sie fühlen und brauchen.
 
-In this session, I will show just how powerful that process can be in: 
-* **healing past wounds**
-* **mediating conflicts between people** 
-* **_reconciling groups that are at war with each other to see how they can live in peace and harmony_**. 
+In dieser Sitzung werde ich zeigen, wie mächtig dieser Prozess sein kann bei:
+* **Heilung vergangener Wunden**
+* **Vermittlung von Konflikten zwischen Menschen**
+* **_Versöhnung von Gruppen, die miteinander im Krieg sind, um zu sehen, wie sie in Frieden und Harmonie leben können_**.
 
-## Healing Empathy 
+## Heilende Empathie
 
-#### First, let's look at how empathy supports healing. 
+#### Zuerst schauen wir uns an, wie Empathie die Heilung unterstützt.
 
-The word healing has some aspects that I get concerned about. When it's applied to people's emotional pain, we use this term mental illness, and then we think of trying to heal the illness. I have some deep concerns about the concept of mental illness. 
+Das Wort Heilung hat einige Aspekte, die mich besorgt machen. Wenn es auf den emotionalen Schmerz von Menschen angewandt wird, verwenden wir diesen Begriff psychische Krankheit, und dann denken wir daran, die Krankheit zu heilen. Ich habe einige tiefe Bedenken hinsichtlich des Konzepts der psychischen Krankheit.
 
-My concerns about this concept began when I receive some precious gifts from a professor I had at university, just before I was ready to graduate with my doctor's degree in clinical psychology. This Professor showed me the scientific limitations of the concept of mental illness, and the political dangers of this concept. 
+Meine Bedenken zu diesem Konzept begannen, als ich einige wertvolle Geschenke von einem Professor erhielt, den ich an der Universität hatte, kurz bevor ich meinen Doktortitel in klinischer Psychologie machen sollte. Dieser Professor zeigte mir die wissenschaftlichen Grenzen des Konzepts der psychischen Krankheit und die politischen Gefahren dieses Konzepts.
 
-He helped me to see that there was almost no reliability about how professionals use these terms because there was no real scientific basis for all of the different problems that were defined in the basic manual used by psychiatrists and psychologists to make diagnoses. 
+Er half mir zu erkennen, dass es fast keine Zuverlässigkeit darüber gibt, wie Fachleute diese Begriffe verwenden, da es keine wirkliche wissenschaftliche Grundlage für all die verschiedenen Probleme gab, die im grundlegenden Handbuch definiert wurden, das von Psychiatern und Psychologen zur Diagnose verwendet wird.
 
-What one professional might call a bipolar disease, another might call something else. And research shows that there's very little reliability of a scientific nature about how all of these terms in the manual are used. But what's more important to me is the political dangers to this. He pointed out to me that we live under political and economic structures that require a certain education, that contributes to great pain on the part of large numbers of people. 
+Was ein Fachmann als bipolare Krankheit bezeichnen könnte, könnte ein anderer etwas anders nennen. Und die Forschung zeigt, dass es sehr wenig wissenschaftliche
 
-He helped me to see how **the concept of mental illness takes the focus away from what might be causing the problems, the structures and the education they require**. By making it look like it's something that's wrong within individuals, we take away from what's really creating the problem. We do it in a way that isn't really helping the people because we talk as though they have an illness. 
+ Zuverlässigkeit darüber gibt, wie all diese Begriffe im Handbuch verwendet werden. Aber was mir wichtiger ist, sind die politischen Gefahren dabei. Er wies mich darauf hin, dass wir unter politischen und wirtschaftlichen Strukturen leben, die eine bestimmte Bildung erfordern, die bei einer großen Anzahl von Menschen große Schmerzen verursacht.
 
-#### it isn't an illness they have, it's an educational problem that they have. 
+Er half mir zu sehen, wie **das Konzept der psychischen Krankheit den Fokus davon ablenkt, was möglicherweise die Probleme verursacht, die Strukturen und die Bildung, die sie erfordern**. Indem es so aussieht, als ob etwas mit den Individuen nicht stimmt, lenken wir von dem ab, was wirklich das Problem schafft. Wir tun dies auf eine Weise, die den Menschen nicht wirklich hilft, weil wir so sprechen, als ob sie eine Krankheit hätten.
 
-They've been educated in a way that might make them depressed, or educated in a way that might make them insensitive to other people's needs and preoccupied only getting their own needs met regardless of how it affects other people. 
+#### Es ist keine Krankheit, die sie haben, es ist ein Bildungsproblem, das sie haben.
 
-I was also helped to get this important concept clarified by the book [The Myth of mental illness](https://en.wikipedia.org/wiki/The_Myth_of_Mental_Illness) by the psychiatrist Thomas Szasz. In that book, he supported what my professor helped me see, the scientific limitations of the concept of mental illness, and the political dangers. 
+Sie wurden auf eine Weise gebildet, die sie depressiv machen könnte, oder auf eine Weise, die sie gegenüber den Bedürfnissen anderer Menschen unempfindlich macht und nur darauf bedacht ist, ihre eigenen Bedürfnisse zu befriedigen, unabhängig davon, wie es andere Menschen beeinflusst.
 
-I value another book that helps show the other side that I'll be talking about more in this session. It's a book called [Legacy of the Heart: The Spiritual Advantage of a Painful Childhood](https://www.goodreads.com/book/show/303061.Legacy_of_the_Heart), written by Wayne Muller. 
+Mir wurde auch geholfen, dieses wichtige Konzept durch das Buch [The Myth of Mental Illness](https://en.wikipedia.org/wiki/The_Myth_of_Mental_Illness) von dem Psychiater Thomas Szasz zu klären. In diesem Buch unterstützte er das, was mein Professor mir helfen konnte zu sehen, die wissenschaftlichen Grenzen des Konzepts der psychischen Krankheit und die politischen Gefahren.
 
-In this book, he looks at the human suffering that many people go through that is often referred to as a mental illness, not as an illness, but as an inevitable consequence of things that may have happened to this person in their life that caused great pain that they didn't know how to handle. He shows that **if we help these people to transcend that pain, to learn how to turn it into something constructive, the very pain can be something the person benefits by**.
+Ich schätze ein anderes Buch, das die andere Seite zeigt, über die ich in dieser Sitzung mehr sprechen werde. Es ist ein Buch mit dem Titel [Legacy of the Heart: The Spiritual Advantage of a Painful Childhood](https://www.goodreads.com/book/show/303061.Legacy_of_the_Heart), geschrieben von Wayne Muller.
+
+In diesem Buch betrachtet er das menschliche Leiden, das viele Menschen durchmachen, das oft als psychische Krankheit bezeichnet wird, nicht als Krankheit, sondern als unvermeidliche Folge von Dingen, die dieser Person im Leben passiert sind und die große Schmerzen verursacht haben, die sie nicht zu bewältigen wussten. Er zeigt, dass **wenn wir diesen Menschen helfen, diesen Schmerz zu transzendieren, ihn in etwas Konstruktives zu verwandeln, der Schmerz selbst etwas sein kann, von dem die Person profitiert**.
 
 5:04  
-This is the kind of way that I like to look at the pain that many people have brought to me over the years. If we look at this pain in a certain way, **we can come out of it stronger people than we would have been if we didn't have this experience.**
+Das ist die Art und Weise, wie ich den Schmerz betrachte, den viele Menschen mir über die Jahre gebracht haben. Wenn wir diesen Schmerz auf eine bestimmte Weise betrachten, **können wir daraus stärkere Menschen hervorgehen, als wir es gewesen wären, wenn wir diese Erfahrung nicht gemacht hätten.**
 
-#### I'd like to give you an example of what I mean by looking at Nonviolent Communication as it relates to the healing process. 
+#### Ich möchte Ihnen ein Beispiel dafür geben, was ich meine, indem ich die gewaltfreie Kommunikation in Bezug auf den Heilungsprozess betrachte.
 
-In the healing work that I do using Nonviolent Communication, empathy plays a key role. And there's three aspects of the empathy that really contribute to healing. One of these aspects is when people can get empathy for the present pain they are experiencing as a result of something that has happened to them in their life, that empathy is the most important thing that contributes to healing. 
+In der heilenden Arbeit, die ich mit gewaltfreier Kommunikation mache, spielt Empathie eine Schlüsselrolle. Und es gibt drei Aspekte der Empathie, die wirklich zur Heilung beitragen. Einer dieser Aspekte ist, wenn Menschen Empathie für den gegenwärtigen Schmerz erhalten, den sie als Folge von etwas erleben, das ihnen im Leben passiert ist, ist diese Empathie das Wichtigste, was zur Heilung beiträgt.
 
-For example, Carl Rogers did some research on what contributes to healing. And in this research, he had patients in a mental hospital assigned to work with psycho-therapists from different persuasions. These therapist tape recorded their sessions. And various measures were made of what went on between the patients and the therapist. 
+Zum Beispiel hat Carl Rogers einige Forschungen durchgeführt, die zeigen, was zur Heilung beiträgt. In dieser Forschung wurden Patienten in einer psychiatrischen Klinik verschiedenen Psychotherapeuten mit unterschiedlichen Überzeugungen zugewiesen. Diese Therapeuten nahmen ihre Sitzungen auf. Es wurden verschiedene Messungen dessen durchgeführt, was zwischen den Patienten und den Therapeuten geschah.
 
-Doctors of the patients who were put into this research evaluated what healing took place to the patients as a result of the work that they did with the various therapists. **This research showed that there was no difference between the various professionals in terms of which kind of psychotherapy was more effective than the other.** All had about the same result in terms of healing. Rogers took a group of lay people who had no psychotherapeutic experience, and made them therapist in this research, and they were just as effective as any of the professionals. 
+Ärzte der Patienten, die in diese Forschung einbezogen wurden, bewerteten, welche Heilung bei den Patienten als Ergebnis der Arbeit, die sie mit den verschiedenen Therapeuten machten, stattfand. **Diese Forschung zeigte, dass es keinen Unterschied zwischen den verschiedenen Fachleuten gab, in Bezug darauf, welche Art von Psychotherapie effektiver war als die andere.** Alle hatten etwa das gleiche Ergebn
 
-I'm aware of a lot of other research that's been done since then that shows that you can't tell whether healing is going to take place by the kind of training that the person they're with has been through. It has much more to do with empathy. 
+is in Bezug auf Heilung. Rogers nahm eine Gruppe von Laien, die keine psychotherapeutische Erfahrung hatten, und machte sie in dieser Forschung zu Therapeuten, und sie waren genauso effektiv wie die Fachleute.
 
-**It was those therapists who demonstrated empathy the most in the sessions, the people that they worked with, showed the most healing**. Just to receive empathy for what is alive in us the pain that's alive in us that may have been stimulated years ago. But that pain is still with us right now, when we get an empathic connection with that pain, that's a very powerful contribution to healing. 
+Ich bin mir einer Menge anderer Forschungen bewusst, die seitdem durchgeführt wurden, die zeigen, dass man nicht sagen kann, ob Heilung stattfinden wird, basierend auf der Art der Ausbildung, die die Person, mit der sie zusammen sind, durchgemacht hat. Es hat viel mehr mit Empathie zu tun.
 
-#### We all have this ability to learn how to listen empathically to one another, and to contribute to one another, transforming this pain. 
+**Es waren jene Therapeuten, die in den Sitzungen am meisten Empathie zeigten, die Menschen, mit denen sie arbeiteten, zeigten die meiste Heilung**. Einfach Empathie zu erhalten für das, was in uns lebendig ist, der Schmerz, der in uns lebendig ist, der möglicherweise vor Jahren angeregt wurde. Aber dieser Schmerz ist immer noch jetzt bei uns, wenn wir eine empathische Verbindung mit diesem Schmerz bekommen, das ist ein sehr wichtiger Beitrag zur Heilung.
 
-A second part of empathic contribution to healing, is when somebody who has been wounded and in pain as a result of things that have happened to them, if they can empathize with what was alive in the people who stimulated that, healing takes place with that.
+#### Wir alle haben die Fähigkeit zu lernen, wie man empathisch aufeinander hört und einander dabei hilft, diesen Schmerz zu transformieren.
+
+Ein zweiter Teil des empathischen Beitrags zur Heilung ist, wenn jemand, der verletzt wurde und Schmerzen hat als Folge von Dingen, die ihm passiert sind, Empathie für das empfinden kann, was in den Menschen lebendig war, die diesen Schmerz angeregt haben, findet Heilung statt.
 
 8:58  
-In other words, 
-* when we get empathy for our pain, that exists as a result of what was stimulated by others, that contributes to healing. 
-* when we can empathically connect, with what was going on in the person who stimulated our pain, that contributes to healing. 
+Mit anderen Worten,
+* wenn wir Empathie für unseren Schmerz erhalten, der als Ergebnis dessen existiert, was von anderen angeregt wurde, trägt das zur Heilung bei.
+* wenn wir empathisch mit dem, was in der Person vor sich ging, die unseren Schmerz angeregt hat, in Verbindung treten können, trägt das zur Heilung bei.
 
-### Role Play
+### Rollenspiel
 
-I now will present to you a role play that demonstrates how this healing takes place, **when a person in pain both gets empathy for the pain that they're experiencing, and is able to give empathy to the person who stimulated the pain**. 
+Ich werde Ihnen nun ein Rollenspiel präsentieren, das zeigt, wie diese Heilung stattfindet, **wenn eine Person sowohl Empathie für den Schmerz erhält, den sie erlebt, als auch in der Lage ist, Empathie für die Person zu geben, die den Schmerz angeregt hat**.
 
-I'll be playing the role of a father who has stimulated a lot of pain in his 30 year old daughter. 
+Ich werde die Rolle eines Vaters spielen, der viel Schmerz bei seiner 30-jährigen Tochter ausgelöst hat.
 
-*Healing can take place if I empathically connect with people myself*, playing the role of the person who stimulated the pain.  Over the years, I have found that *it is far more powerful if I played the role of the other person offering this empathic connection*, and actually *my first choice is to have the person stimulating the pain present*, and to work with both the person who has suffered and the person who has stimulated the suffering. Then I help that person who has stimulated the suffering to empathically connect with the other person. 
+*Heilung kann stattfinden, wenn ich empathisch mit den Menschen selbst in Verbindung trete*, indem ich die Rolle der Person spiele, die den Schmerz verursacht hat. Im Laufe der Jahre habe ich festgestellt, dass es *viel mächtiger ist, wenn ich die Rolle der anderen Person spiele, die diese empathische Verbindung anbietet*, und tatsächlich *ist meine erste Wahl, die Person anwesend zu haben, die den Schmerz verursacht hat*, und mit der Person zu arbeiten, die gelitten hat und der Person, die das Leiden verursacht hat. Dann helfe ich dieser Person, die das Leiden verursacht hat, empathisch mit der anderen Person in Verbindung zu treten.
 
-#### In this role play, I'll be playing the role of a father who has stimulated great pain for his daughter. 
+#### In diesem Rollenspiel werde ich die Rolle eines Vaters spielen, der großen Schmerz für seine Tochter verursacht hat.
 
-I'll be using Nonviolent Communication and demonstrating how empathic connection is used in a Nonviolent Communication way. My daughter will not be speaking Nonviolent Communication. 
+Ich werde gewaltfreie Kommunikation verwenden und zeigen, wie empathische Verbindung auf gewaltfreie Kommunikationsweise verwendet wird. Meine Tochter wird nicht gewaltfrei kommunizieren.
 
-Usually this kind of work begins when I ask the other person, in the role of the person who stimulated the pain, to tell me "what's still alive in you that you would like me to hear? Don't worry about how I receive it, I'm now learning how to respond empathically, so I won't respond as I have in the past." 
+Normalerweise beginnt diese Art von Arbeit, wenn ich die andere Person bitte, in der Rolle der Person, die den Schmerz verursacht hat, mir zu sagen: "Was ist noch lebendig in dir, das du möchtest, dass ich höre? Mach dir keine Sorgen darüber, wie ich es aufnehme, ich lerne jetzt, empathisch zu reagieren, also werde ich nicht so reagieren, wie ich es in der Vergangenheit getan habe."
 
-Let's start with that daughter, I'm confident that I can empathically connect with whatever you want to say. So please tell me what's still alive in you, as a result of our prior relationship, that you'd like me to hear.
+Lassen Sie uns mit dieser Tochter beginnen, ich bin zuversichtlich, dass ich empathisch mit allem verbinden kann, was Sie sagen möchten. Also bitte sagen Sie mir, was noch lebendig in Ihnen ist, als Ergebnis unserer bisherigen Beziehung, das Sie mir gerne mitteilen möchten.
 
 11:47  
-*I feel worthless and I feel totally rejected by all the men that I touch. I want to be in relationship. I've been through two divorces. And I do not know how to even connect with any man because of you, when I would come to you for any kind of a need that I really wanted you to listen to, you immediately would interrupt and would the first word that would come out of your mouth was that I deserved it and I was totally a no good stupid idiot, and I was a worthless female, girl.* 
+*Ich fühle mich wertlos und ich fühle mich von allen Männern, mit denen ich in Kontakt komme,
 
-*All those names are still haunting me every time any man that I have a relationship with his tries to get close to me. I don't trust them. Because of you. It's all because of you and I'm I'm just beyond... That's what's alive right now is that I don't know where to go. I'm 30 years old. I've been through two divorces and I'm miserable and alone.*
+ völlig abgelehnt. Ich möchte in einer Beziehung sein. Ich habe zwei Scheidungen hinter mir. Und ich weiß nicht einmal, wie ich überhaupt eine Verbindung zu einem Mann aufbauen kann, wegen dir, wenn ich zu dir kam, um irgendein Bedürfnis, das ich wirklich wollte, dass du zuhörst, zu erfüllen, hast du sofort unterbrochen und das erste Wort, das aus deinem Mund kam, war, dass ich es verdient hätte und ich war völlig eine nutzlose, dumme Idiotin und ich war ein wertloses Mädchen.*
+
+*All diese Namen verfolgen mich jedes Mal, wenn irgendein Mann, mit dem ich eine Beziehung habe, versucht, mir nahe zu kommen. Ich vertraue ihnen nicht. Wegen dir. Es ist alles wegen dir und ich bin ich bin einfach darüber hinaus... Das ist es, was jetzt lebendig ist, dass ich nicht weiß, wohin ich gehen soll. Ich bin 30 Jahre alt. Ich habe zwei Scheidungen hinter mir und ich bin elend und allein.*
 
 13:00  
-Well, I want to be sure that I'm taking all of that in daughter. That's very precious. And I'm grateful to you for willing to open up. But I want to be sure I'm hearing you. So what I'm hearing is that there's still a great deal of pain in you, hurt, that your need for respect wasn't met by the way I would respond to you at times. As a result of that, you're feeling rather desperate about how it's affecting your present relationships with other men, and how it's keeping you from getting your needs for closeness met. Am I hearing you correctly?
+Nun, ich möchte sicherstellen, dass ich all das aufnehme, Tochter. Das ist sehr wertvoll. Und ich bin dir dankbar, dass du bereit bist, dich zu öffnen. Aber ich möchte sicherstellen, dass ich dich richtig höre. Also das, was ich höre, ist, dass es noch eine Menge Schmerz in dir gibt, Schmerz, dass dein Bedürfnis nach Respekt nicht erfüllt wurde durch die Art, wie ich manchmal auf dich reagiert habe. Als Ergebnis davon fühlst du dich ziemlich verzweifelt darüber, wie es deine gegenwärtigen Beziehungen zu anderen Männern beeinflusst und wie es dich daran hindert, deine Bedürfnisse nach Nähe zu erfüllen. Höre ich dich richtig?
 
 13:45  
-*I'm just right now burning with steam for you to even say precious. I feel cheated. By all that. You said yes, you are hearing me, but at the same time, I'm doubting you. I don't trust you.*
+*Ich brenne gerade vor Dampf, weil du sogar das Wort wertvoll sagst. Ich fühle mich betrogen. Von alledem. Ja, du hörst mich, aber gleichzeitig zweifle ich an dir. Ich vertraue dir nicht.*
 
 13:59  
-In addition to those feelings I'm hearing there's still a great deal of rage on your part. Because what I did was hard for you to see in any way except as something that was a violation of you. And then I'm hearing that it's hard for you to trust right now, even when I'm trying to understand you in this way. You'd like some understanding how hard it is for you to trust me now since this is different than I've communicated to you in the past.
+Zusätzlich zu diesen Gefühlen höre ich, dass du immer noch eine große Wut hast. Weil das, was ich getan habe, für dich auf keine andere Weise zu sehen war, außer als etwas, das eine Verletzung von dir war. Und dann höre ich, dass es dir jetzt schwer fällt, mir zu vertrauen, selbst wenn ich versuche, dich auf diese Weise zu verstehen. Du möchtest etwas Verständnis dafür, wie schwer es für dich ist, mir jetzt zu vertrauen, da dies anders ist, als ich dir in der Vergangenheit kommuniziert habe.
 
 14:32  
-*Yes, I feel all the put downs and all the criticism, from the time I would want to sit in your lap, you didn't even want me to even get close to you. I thought there was something wrong with me that I was totally a mess. I grew up feeling this worthlessness of not being even visible. I wanted you, I want you to look at me, you overpowered me from the time I was little.*
+*Ja, ich fühle all die Herabsetzungen und all die Kritik, von dem Moment an, als ich auf deinem Schoß sitzen wollte, wolltest du nicht einmal, dass ich dir nahe komme. Ich dachte, etwas stimmt nicht mit mir, dass ich völlig ein Chaos war. Ich bin aufgewachsen und fühlte diese Wertlosigkeit, nicht einmal sichtbar zu sein. Ich wollte, dass du mich ansiehst, du hast mich von klein auf überrannt.*
 
 15:08  
-What I'm hearing is that still exist in you a great deal of hurt, that your need to feel valued wasn't met in our relationship and you're still carrying this, this pain in you that whatever is you will not really meet with acceptance. Am I hearing this correctly?
+Was ich höre, ist, dass immer noch ein großer Schmerz in dir existiert, dass dein Bedürfnis, dich wertgeschätzt zu fühlen, in unserer Beziehung nicht erfüllt wurde und du trägst immer noch diesen Schmerz in dir, dass alles, was du bist, nicht wirklich mit Akzeptanz aufgenommen wird. Höre ich das richtig?
 
 15:34  
-*Yes you are. Yes. It's about that shame that I still have inside. Every time I think about wanting to even think about you, I start feeling all this guilt that you always would put on me, especially when I would come home from school and something would happen and you would turn it around and hit me and get the belt and just leave me on the floor and didn't care whether I was crying, and if I cried even a little bit louder then you would come and hit me more so that I would shut up.*
+*Ja, du tust es. Ja. Es geht um diese Scham, die ich immer noch in mir habe. Jedes Mal, wenn ich auch nur daran denke, dich sehen zu wollen, beginne ich, all diese Schuld zu spüren, die du mir immer aufgeladen hast, besonders wenn ich von der Schule nach Hause kam und etwas passiert ist und du es umgedreht hast und mich geschlagen und den Gürtel geholt hast und mich einfach auf dem Boden liegen gelassen hast und es dir egal war, ob ich weinte, und wenn ich auch nur ein bisschen lauter weinte, dann würdest du kommen und mich noch mehr schlagen, damit ich die Klappe halte.*
 
 16:10  
-You're still suffering the pain of those times when you really need understanding and got quite the opposite, instead of being understood for what was bothering you when you were crying, you heard a criticism, you felt you received punishment, and you'd like me to be aware of how that has affected you, that it's leaving you now feeling scared to reveal yourself? Am I hearing you correctly?
+Du leidest immer noch unter dem Schmerz dieser Zeiten,
+
+ als du wirklich Verständnis gebraucht hättest und stattdessen genau das Gegenteil bekommen hast, anstatt verstanden zu werden für das, was dich störte, als du geweint hast, hast du Kritik gehört, du hast das Gefühl, du hast Bestrafung erhalten, und du möchtest, dass ich mir dessen bewusst bin, wie das dich beeinflusst hat, dass es dich jetzt ängstlich macht, dich zu offenbaren? Höre ich dich richtig?
 
 16:41  
-*Yes, you are. Yes, I can for the first time hear that you are listening.*
+*Ja, das tust du. Ja, ich kann zum ersten Mal hören, dass du zuhörst.*
 
 16:51  
-I'd like then, to tell you daughter what goes on in me when I hear this. If you're willing for me to talk now, can you hear me now?
+Ich möchte dir dann, Tochter, sagen, was in mir vorgeht, wenn ich das höre. Wenn du bereit bist, mich jetzt sprechen zu hören, kannst du mich jetzt hören?
 
 17:01  
-*Yes, I can I hope I can.*
+*Ja, ich kann es hoffentlich.*
 
 17:05  
-First thing I want you to hear is how sad I am this deeply, deeply sad. I would have liked to have met your need for acceptance and I would have liked for your you to feel safe around me. So I'm really sad that I didn't know how to express myself differently when you were young. I was so caught up in pain myself in my relationship with your mother and with other people. So caught up in that pain. And I did not talk about it with people. And I'm sad that it would come out toward you and toward the other children.
+Das Erste, was ich möchte, dass du hörst, ist, wie traurig ich bin, das tief, tief traurig. Ich hätte gerne dein Bedürfnis nach Akzeptanz erfüllt und hätte gerne, dass du dich sicher um mich herum fühlst. Also bin ich wirklich traurig, dass ich nicht wusste, wie ich mich anders ausdrücken sollte, als du jung warst. Ich war so in Schmerz selbst in meiner Beziehung mit deiner Mutter und mit anderen Menschen gefangen. So sehr in diesem Schmerz gefangen. Und ich habe nicht darüber mit Menschen gesprochen. Und ich bin traurig, dass es auf dich und auf die anderen Kinder herauskam.
 
 17:50  
-Could you tell me what you heard me say so I can see if I made myself clear?
+Könntest du mir sagen, was du gehört hast, damit ich sehen kann, ob ich mich klar ausgedrückt habe?
 
 17:55  
-*What I heard you say is that you are sad for not being able to to be there for me that you're caught up in your own pain with whatever was going on with you and mom and when we wanted you to be just there and loving us that you could not do that. So your sadness right now is very I'm hearing that I never heard that before. I was just scared of you.*
+*Was ich gehört habe, ist, dass du traurig bist, dass du nicht für mich da sein konntest, dass du in deinem eigenen Schmerz gefangen warst, mit dem, was mit dir und Mama und anderen vor sich ging, als wir wollten, dass du einfach da und liebevoll zu uns bist, dass du das nicht tun konntest. Also deine Traurigkeit jetzt ist sehr, ich höre das jetzt zum ersten Mal. Ich hatte einfach Angst vor dir.*
 
 18:31  
-And I very much I'm grateful for you hearing me this way. And I'd like to know how you feel when I tell you.
+Und ich bin sehr dankbar, dass du mich jetzt so hörst. Und ich möchte wissen, wie du dich fühlst, wenn ich dir das sage.
 
 18:40  
-*I'm relieved. I'm relieved because I thought I had done something wrong. 
-And I'm sad for you*.
+*Ich bin erleichtert. Ich bin erleichtert, weil ich dachte, ich hätte etwas falsch gemacht.
+Und ich bin traurig für dich*.
 
 18:49  
-I'm so sad that I didn't know a way of expressing my pain that would wouldn't have left you feeling there was something wrong with you. I wish I could have just said, at that time, I'm in so much pain daughter, it's hard for me to hear you cry. I wish I could have done anything except communicate in a way that would contribute to your feeling that you weren't valued. So I'm grateful to you for having this dialogue with me now. 
+Ich bin so traurig, dass ich keinen Weg kannte, meinen Schmerz so auszudrücken, dass es dich nicht hätte fühlen lassen, dass etwas mit dir nicht stimmt. Ich wünschte, ich hätte einfach sagen können, zu dieser Zeit, ich bin in so viel Schmerz, Tochter, es fällt mir schwer, dich weinen zu hören. Ich wünschte, ich hätte irgendetwas tun können, außer auf eine Weise zu kommunizieren, die dazu beigetragen hätte, dass du das Gefühl hattest, du wärst nicht wertgeschätzt. Also bin ich dir dankbar, dass du jetzt diesen Dialog mit mir hast.
 
-#### That's how healing sessions often go when we apply Nonviolent Communication to the healing. 
+#### So gehen Heilungssitzungen oft vor, wenn wir gewaltfreie Kommunikation auf die Heilung anwenden.
 
-Notice that in that dialogue, I began in the role of Father empathically, connecting to what was alive in her now. Notice how little time we spent talking about the past it was mostly focusing on what is alive now. And when my daughter received the empathy she said she needed now. Then she could empathize with what was alive in me when I was doing the things and saying the things that stimulated to her pain. 
+Beachten Sie, dass in diesem Dialog ich in der Rolle des Vaters empathisch mit dem verbunden habe, was jetzt in ihr lebendig ist. Beachten Sie, wie wenig Zeit wir über die Vergangenheit gesprochen haben, es ging meistens darum, was jetzt lebendig ist. Und als meine Tochter die Empathie erhielt, die sie jetzt brauchte. Dann konnte sie empathisch mit dem verbinden, was in mir lebendig war, als ich die Dinge tat und sagte, die ihren Schmerz anregten.
 
-Over the years, many people have come to me wanting to have some healing for a lot of pain that's going on within them. And this healing can take place if I just play my own role, I do not have to necessarily play the role of the person who contributed to the pain. 
+Im Laufe der Jahre sind viele Menschen zu mir gekommen, die Heilung für viel Schmerz haben wollten, der in ihnen vor sich ging. Und diese Heilung kann stattfinden, wenn ich nur meine eigene Rolle spiele, ich muss nicht unbedingt die Rolle der Person spielen, die zum Schmerz beigetragen hat.
 
-Very often I will start by saying to people, **_I think we can heal from this situation, if you can tell me what's alive in you now, as a result of what happened in the past_. Let's just talk about what's alive now. Maybe it was stimulated by something that somebody did in the past. But just tell me now, what is alive in you now**? 
+Sehr oft werde ich zu Beginn zu den Menschen sagen, **_Ich denke, wir können von dieser Situation heilen, wenn du mir sagen kannst, was jetzt in dir lebendig ist, als Ergebnis dessen
 
-If the person is very depressed. They usually don't know how to tell me really what's alive in them now, as we define that term. In Nonviolent Communication, that what is alive in you now is what are you feeling? And what are you needing? 
+, was in der Vergangenheit passiert ist_. Lassen Sie uns nur darüber sprechen, was jetzt lebendig ist. Vielleicht wurde es durch etwas angeregt, das jemand in der Vergangenheit getan hat. Aber sag mir jetzt einfach, was jetzt in dir lebendig ist**?
 
-Most people who I find are very depressed, do not know how to express and stay connected to their feelings and needs. **They feel their depression because of how they think about themselves. And they think about themselves this way, not because they have an illness called depression. But because they have been educated to think about themselves in a way that creates depression**.
+Wenn die Person sehr deprimiert ist. Sie wissen normalerweise nicht, wie sie mir wirklich sagen sollen, was jetzt in ihnen lebendig ist, wie wir diesen Begriff definieren. In der gewaltfreien Kommunikation ist das, was jetzt in Ihnen lebendig ist, was fühlen Sie? Und was brauchen Sie?
+
+Die meisten Menschen, die ich finde, sind sehr deprimiert, wissen nicht, wie sie ihre Gefühle und Bedürfnisse ausdrücken und damit verbunden bleiben können. **Sie fühlen ihre Depression wegen der Art, wie sie über sich selbst denken. Und sie denken auf diese Weise über sich selbst nach, nicht weil sie eine Krankheit namens Depression haben. Sondern weil sie so erzogen wurden, über sich selbst nachzudenken, dass es Depression erzeugt**.
 
 21:41  
-For example, very often when somebody who's very depressed comes to me and wants to get out of this depression. I asked him this question to get started, what needs of yours are not being met right now? 
+Zum Beispiel, wenn mir jemand, der sehr deprimiert ist, zu mir kommt und aus dieser Depression herauskommen möchte. Ich stelle ihm diese Frage, um zu beginnen, welche Bedürfnisse von Ihnen werden gerade nicht erfüllt?
 
-When the person is very depressed, they very seldom tell me what their needs are. 
-They usually give me a diagnosis of themselves. 
+Wenn die Person sehr deprimiert ist, sagt sie mir sehr selten, welche ihre Bedürfnisse sind.
+Sie geben mir normalerweise eine Diagnose von sich selbst.
 
-They'll say something to me like, I'm a failure. I look at my brothers and sisters and I see all they've accomplished in life. I compare myself to them and I see what a failure I am. Or, other people tell me, I'm a terrible mother. Or others tell me, I'm too sensitive. All I know is that I get hurt. No matter what somebody says, What's wrong with me? I'm so sensitive. 
+Sie werden mir etwas sagen wie, ich bin ein Versager. Ich schaue auf meine Brüder und Schwestern und sehe alles, was sie im Leben erreicht haben. Ich vergleiche mich mit ihnen und sehe, was für ein Versager ich bin. Oder, andere Leute sagen mir, ich bin eine schreckliche Mutter. Oder andere sagen mir, ich bin zu empfindlich. Alles, was ich weiß, ist, dass ich verletzt werde. Egal, was jemand sagt, Was stimmt nicht mit mir? Ich bin so empfindlich.
 
-Notice, I've asked these people what their needs are, but they don't tell me their needs. They're very literate, telling me what they think about themselves, what they think about themselves in a way that implies there is something wrong with them. And that's the kind of thinking I believe contributes to depression. 
+Beachten Sie, ich habe diesen Menschen nach ihren Bedürfnissen gefragt, aber sie erzählen mir nicht ihre Bedürfnisse. Sie sind sehr gebildet darin, mir zu sagen, was sie über sich selbst denken, wie sie über sich selbst denken, auf eine Weise, die impliziert, dass etwas mit ihnen nicht stimmt. Und das ist die Art des Denkens, von der ich glaube, dass sie zur Depression beiträgt.
 
-What I do with such people, I help them to identify these judgments and help them to see that all of **these judgments that we make of ourselves that stimulate depression are simply expressions of unmet needs**. We have needs in our life, that we're not meeting to our satisfaction. 
+Was ich mit solchen Menschen mache, ich helfe ihnen, diese Urteile zu identifizieren und ihnen zu helfen zu sehen, dass all diese **Urteile, die wir über uns selbst fällen, die Depression anregen, einfach Ausdrücke von unerfüllten Bedürfnissen sind**. Wir haben Bedürfnisse in unserem Leben, die wir nicht zu unserer Zufriedenheit erfüllen.
 
-#### But we haven't been educated to think, in terms of what's alive in us, what we're feeling what we're needing. We've been educated to think of what we are. 
+#### Aber wir wurden nicht dazu erzogen zu denken, in Begriffen dessen, was in uns lebendig ist, was wir fühlen, was wir brauchen. Wir wurden erzogen zu denken, was wir sind.
 
-I help the people to see that if we can recognize these thoughts when we're having them and translate them into unmet needs. We live in a different world will no longer be depressed. Now we may be frustrated, we may be sad, discouraged, but not This painful feeling of depression that comes from the thinking that implies there's something wrong with us. 
+Ich helfe den Menschen zu erkennen, dass wenn wir diese Gedanken erkennen können, wenn wir sie haben, und sie in unerfüllte Bedürfnisse übersetzen. Wir leben in einer anderen Welt, werden nicht mehr deprimiert sein. Jetzt könnten wir frustriert sein, wir könnten traurig sein, entmutigt, aber nicht dieses schmerzhafte Gefühl der Depression, das von dem Denken kommt, das impliziert, dass etwas mit uns nicht stimmt.
 
-**One of the judgments that I find that people very often have when they are terribly depressed, they judge themselves as poor parents**. 
+**Eines der Urteile, die ich finde, dass Menschen sehr oft haben, wenn sie schrecklich deprimiert sind, sie beurteilen sich selbst als schlechte Eltern**.
 
-I teasingly tell people, if you want to know how to get really depressed in life, have children and think there is such a thing as a good parent. Parents really laugh when I say that, because they really know what I mean. 
+Ich sage den Leuten scherzhaft, wenn Sie wissen wollen, wie man im Leben wirklich deprimiert wird, haben Sie Kinder und denken Sie, dass es so etwas wie einen guten Elternteil gibt. Eltern lachen wirklich, wenn ich das sage, weil sie wirklich wissen, was ich meine.
 
-They know this precious job of parenting, this precious opportunity to bring people into this world and prepare them for the world, it's a precious job, but if we have been educated to think of ourself in a moralistic, judgmental way, we can take that job and turn it into something miserable because anytime things aren't going well between our children and ourself, and we start thinking, I'm a terrible parent, what's wrong with me, I should know better. We're going to be depressed a good deal of the time. 
+Sie kennen diesen kostbaren Job der Elternschaft, diese kostbare Gelegenheit, Menschen in diese Welt zu bringen und sie auf die Welt vorzubereiten, es ist ein kostbarer Job, aber wenn wir erzogen wurden, über uns selbst auf eine moralistische, urteilende Weise zu denken, können wir diesen Job in etwas Elendiges verwandeln, weil
 
-When I'm working with such people, I help them, first of all, to recognize that the depression is a good signal. It tells us we're thinking in a way that's not good for our well being, or the people around us. But don't judge yourself negatively for having that thinking. That'll just perpetuate the problem. Just see the thinking, see what you're telling yourself, and how that makes you feel depressed. 
+ immer, wenn die Dinge zwischen unseren Kindern und uns selbst nicht gut laufen, und wir anfangen zu denken, ich bin ein schrecklicher Elternteil, was stimmt nicht mit mir, ich sollte es besser wissen. Wir werden eine gute Zeit lang deprimiert sein.
 
-If you see that you're depressed, because you're telling yourself you're such a terrible parent, be conscious that **all of those judgments, that have that effect on us, are really valuable messages if we hear the truth, to hear that what they really are trying to say is, a need of mine is not getting met by what I'm doing**. 
+Wenn ich mit solchen Menschen arbeite, helfe ich ihnen zunächst zu erkennen, dass die Depression ein gutes Signal ist. Es sagt uns, dass wir auf eine Weise denken, die nicht gut für unser Wohlbefinden oder das der Menschen um uns herum ist. Aber beurteilen Sie sich nicht negativ dafür, dass Sie dieses Denken haben. Das wird nur das Problem verstärken. Sehen Sie einfach das Denken, sehen Sie, was Sie sich selbst sagen und wie das Sie deprimiert macht.
 
-Example with my children, my need to contribute to their well being is strong in me. But I can see that it's not happening, I can see that the way I'm talking to them when I'm upset, is not meeting my need to contribute to their well being. 
+Wenn Sie sehen, dass Sie deprimiert sind, weil Sie sich selbst sagen, dass Sie ein so schrecklicher Elternteil sind, seien Sie sich bewusst, dass **all diese Urteile, die diese Wirkung auf uns haben, wirklich wertvolle Botschaften sind, wenn wir die Wahrheit hören, zu hören, dass sie wirklich versuchen zu sagen, dass ein Bedürfnis von mir nicht von dem erfüllt wird, was ich tue**.
 
-*Seeing it that way*, I might feel frustrated, I might feel sad, but those are quite different feelings and depression. That feeling that comes when I'm blaming and judging myself.
+Beispiel mit meinen Kindern, mein Bedürfnis, zu ihrem Wohlergehen beizutragen, ist stark in mir. Aber ich kann sehen, dass es nicht passiert, ich kann sehen, dass die Art, wie ich mit ihnen spreche, wenn ich aufgeregt bin, mein Bedürfnis, zu ihrem Wohlergehen beizutragen, nicht erfüllt.
+
+*So gesehen*, könnte ich frustriert sein, ich könnte traurig sein, aber das sind ganz andere Gefühle als Depression. Dieses Gefühl, das kommt, wenn ich mich selbst beschuldige und beurteile.
 
 26:39  
-So, in healing work that I do, a very important part of it is to help people to become conscious that these judgments, that they're telling themselves, that create their misery, contain this valuable information if we can hear the needs of theirs, that are not getting met. 
+Also, in der Heilarbeit, die ich tue, ist ein sehr wichtiger Teil davon, den Menschen zu helfen, sich bewusst zu werden, dass diese Urteile, die sie sich selbst sagen, die ihr Elend schaffen, diese wertvollen Informationen enthalten, wenn wir die Bedürfnisse von ihnen hören können, die nicht erfüllt werden.
 
-## Mediation
+## Vermittlung
 
-Now that we have seen the role that empathy plays in healing, I'd like to look at some other functions that are also supported by empathy, which are also closely related to healing. And these are mediation and reconciliation. 
+Jetzt, da wir die Rolle gesehen haben, die Empathie in der Heilung spielt, möchte ich einige andere Funktionen betrachten, die ebenfalls von Empathie unterstützt werden, die auch eng mit der Heilung verwandt sind. Und das sind Vermittlung und Versöhnung.
 
-In mediation, where I am confronted with either two individuals who have a conflict or two groups, I find that **when I can get both groups to empathically connect with the needs of the other** group, or each individual to empathically connect with the needs of the other individual, It is amazing to me then, how **conflicts which seem impossible to resolve almost seemed to resolve themselves**.
+In der Vermittlung, wo ich entweder mit zwei Individuen konfrontiert bin, die einen Konflikt haben, oder mit zwei Gruppen, finde ich, dass **wenn ich beide Gruppen dazu bringen kann, empathisch mit den Bedürfnissen der anderen** Gruppe zu verbinden, oder jedes Individuum empathisch mit den Bedürfnissen des anderen Individuums zu verbinden, ist es erstaunlich für mich, dann zu sehen, wie **Konflikte, die unmöglich zu lösen scheinen, sich fast von selbst zu lösen scheinen**.
 
-### Married Couples
+### Verheiratete Paare
 
 27:58  
-For example, was working with married couples. And when I do this, I often ask each couple to identify a conflict they haven't been able to resolve in their marriage. And when they have identified this, I asked them to identify how long this conflict has gone unresolved. 
+Zum Beispiel, wenn ich mit verheirateten Paaren arbeite. Und wenn ich das tue, frage ich jedes Paar oft, einen Konflikt zu identifizieren, den sie in ihrer Ehe nicht lösen konnten. Und wenn sie diesen identifiziert haben, frage ich sie, wie lange dieser Konflikt ungelöst geblieben ist.
 
-When they do identify the conflict, I asked them to identify how long it's been going on. Then we find the conflict in the group that's been going on the longest. I make a prediction that people are rather skeptical, that I'll be able to fulfill this prediction. **I predict that will resolve the conflict within 20 minutes from the point at which each party can tell me what the other party's needs are**. 
+Wenn sie den Konflikt identifizieren, frage ich sie, wie lange er andauert. Dann finden wir den Konflikt in der Gruppe, der am längsten andauert. Ich mache eine Vorhersage, die die Menschen eher skeptisch macht, dass ich diese Vorhersage erfüllen kann. **Ich sage voraus, dass wir den Konflikt innerhalb von 20 Minuten lösen können, von dem Zeitpunkt an, an dem jede Partei mir sagen kann, was die Bedürfnisse der anderen Partei sind**.
 
-In one workshop, the couple that had the longest conflict had been married 39 years, and the Conflict started six months into their marriage. When the wife had twice overdrawn the checkbook, the husband then took over all financial affairs, and wouldn't let her write checks for the next 39 years. 
+In einem Workshop hatte das Paar, das den längsten Konflikt hatte, 39 Jahre lang geheiratet, und der Konflikt begann sechs Monate nach ihrer Hochzeit, als die Frau zweimal das Scheckbuch überzogen hatte, übernahm der Ehemann dann alle finanziellen Angelegenheiten und ließ sie die nächsten 
 
-This had created a great deal of pain in their relationship. So I said to the couple, I'd like you each to tell me what you hear the other person's needs are in this conflict. When you can both Tell me, you've understood each other's needs a bit, we can resolve the conflict within 20 minutes. 
+39 Jahre keine Schecks schreiben.
 
-While the wife was very skeptical, and she said, Marshall, we've talked about this regularly for 39 years, we communicate about it, but it's just a conflict we can't resolve. 
+Dies hatte viel Schmerz in ihrer Beziehung verursacht. Also sagte ich zu dem Paar, ich möchte, dass ihr mir beide sagt, was ihr die Bedürfnisse der anderen Person in diesem Konflikt hört. Wenn ihr mir beide sagen könnt, dass ihr euch gegenseitig verstanden habt, können wir den Konflikt innerhalb von 20 Minuten lösen.
 
-I said, Okay, so let's see if my prediction comes true. You tell me his needs, he'll tell me your needs, and we'll see if we can resolve it within 20 minutes. 
+Während die Frau sehr skeptisch war, und sie sagte, Marshall, wir haben regelmäßig darüber gesprochen, wir kommunizieren darüber, aber es ist einfach ein Konflikt, den wir nicht lösen können.
 
-*So I said to her, what are his needs?* 
+Ich sagte, Okay, dann wollen wir sehen, ob meine Vorhersage zutrifft. Du sagst mir seine Bedürfnisse, er wird mir deine Bedürfnisse sagen, und wir werden sehen, ob wir ihn innerhalb von 20 Minuten lösen können.
 
-She said, he doesn't want me to spend any money. 
+*Also sagte ich zu ihr, was sind seine Bedürfnisse?*
 
-He said, that's ridiculous. 
+Sie sagte, er will nicht, dass ich Geld ausgebe.
 
-I said, Now, not wanting you to spend money is not what I mean by a need. 
+Er sagte, das ist lächerlich.
 
-#### What I mean by a need contains no reference to specific strategies of what we want people to do or not do. 
+Ich sagte, Jetzt, nicht wollen, dass du Geld ausgibst, ist nicht das, was ich mit einem Bedürfnis meine.
 
-I gave her an explanation of what I mean by a need. 
+#### Was ich mit einem Bedürfnis meine, enthält keinen Bezug zu spezifischen Strategien, was wir wollen, dass die Leute tun oder nicht tun.
 
-She said, okay, Marshall, I think I understand. Let me tell you what his needs are. He's just like his own father. They both have a depression mentality when it comes to money. 
+Ich gab ihr eine Erklärung, was ich mit einem Bedürfnis meine.
 
-Then he looked at the ceiling and rolled his eyes because he had heard the same diagnosis of his pathology for 39 years. 
+Sie sagte, okay, Marshall, ich glaube, ich verstehe. Lass mich dir sagen, was seine Bedürfnisse sind. Er ist genau wie sein eigener Vater. Sie beide haben eine Depression-Mentalität, wenn es um Geld geht.
 
-I said, hold it, hold it. Every time we make a diagnosis like that about people. It's going to make it that much harder to resolve the conflict. 
+Dann schaute er an die Decke und rollte mit den Augen, weil er die gleiche Diagnose seiner Pathologie seit 39 Jahren gehört hatte.
 
-I said to him, Well, it's quite obvious your wife is really not connected to what your needs are in this money situation. So could you explain what your needs are? 
+Ich sagte, halt, halt. Jedes Mal, wenn wir eine Diagnose wie diese über Menschen machen. Das wird es nur noch schwieriger machen, den Konflikt zu lösen.
 
-He said to me, Marshall, she's a wonderful mother, she's a wonderful wife, but when it comes to money, she's totally irresponsible. 
+Ich sagte zu ihm, Nun, es ist ziemlich offensichtlich, dass deine Frau wirklich nicht mit deinen Bedürfnissen in dieser Geldsituation verbunden ist. Also könntest du erklären, was deine Bedürfnisse sind?
 
-She jumps in and says, you know, that's not fair. 
+Er sagte zu mir, Marshall, sie ist eine wunderbare Mutter, sie ist eine wunderbare Ehefrau, aber wenn es um Geld geht, ist sie völlig verantwortungslos.
 
-See, I asked him what his needs were. He's like many people, they don't really know how to say their needs, but they're quite skilled at saying what's wrong with other people for not meeting their needs. 
+Sie springt ein und sagt, weißt du, das ist nicht fair.
 
-I could see that neither of them had the skills yet that **Nonviolent Communication provides us with skills for clearly expressing our needs without criticizing the other person**. Then I used Nonviolent Communication in a mediation sense by translating each of their judgments into their needs.
+Sehen Sie, ich habe ihn nach seinen Bedürfnissen gefragt. Er ist wie viele Menschen, sie wissen wirklich nicht, wie sie ihre Bedürfnisse sagen sollen, aber sie sind ziemlich geschickt darin zu sagen, was mit anderen Menschen nicht stimmt, weil sie ihre Bedürfnisse nicht erfüllen.
 
-Having heard the husband say that his wife was totally irresponsible about money. I said, it sounds to me, sir, as though you're really scared about how she has handled money at times in the past, and you have a need to protect the family economically. Is that what your need is? 
+Ich konnte sehen, dass keiner von ihnen noch die Fähigkeiten hatte, die **gewaltfreie Kommunikation uns bietet, unsere Bedürfnisse klar auszudrücken, ohne die andere Person zu kritisieren**. Dann verwendete ich gewaltfreie Kommunikation in einem Vermittlungssinn, indem ich jedes ihrer Urteile in ihre Bedürfnisse übersetzte.
 
-He said, *that's exactly what I'm saying*. 
+Nachdem ich den Ehemann sagen hörte, dass seine Frau völlig verantwortungslos mit Geld umgeht, sagte ich, es hört sich für mich so an, mein Herr, als ob Sie wirklich Angst davor haben, wie sie manchmal mit Geld umgegangen ist, und Sie haben ein Bedürfnis, die Familie wirtschaftlich zu schützen. Ist das, was Ihr Bedürfnis ist?
 
-Well, that, of course, wasn't exactly what he said, he said she was totally irresponsible when it comes to money. 
+Er sagte, *das ist genau das, was ich sage*.
 
-#### As I said in our session on empathy, all judgments and criticisms of others are tragic expressions of our needs. 
+Nun, das war natürlich nicht genau das, was er sagte, er sagte, sie sei völlig verantwortungslos, wenn es um Geld geht.
 
-<u>Here's a good example of that</u>. I asked for his needs, which were for financial security for the family, and he put it in the form of a diagnosis of her, that she was totally irresponsible.
+#### Wie ich in unserer Sitzung über Empathie sagte, sind alle Urteile und Kritiken an anderen tragische Ausdrücke unserer Bedürfnisse.
+
+<u>Hier ist ein gutes Beispiel dafür</u>. Ich fragte nach seinen Bedürfnissen, die für finanzielle Sicherheit für die Familie waren, und er stellte es in der Form einer Diagnose von ihr dar, dass sie völlig verantwortungslos sei.
 
 33:00  
-I said to her, could you tell me back what your husband said his needs were? 
+Ich sagte zu ihr, könntest du mir zurückgeben, was dein Ehemann gesagt hat, dass seine Bedürfnisse waren?
 
-She said, he said that I'm irresponsible, he doesn't understand.... 
+Sie sagte, er sagte, dass ich unverantwort
 
-and I stopped her, and I said, hold it hold. So notice she's heard this criticism for so long that even when he expresses his needs, she can't hear it. She still hears the criticism. We pay for every criticism people hear us making. It makes it that much harder for them to see our humaneness, what we're feeling what we're needing. 
+lich bin, er versteht nicht....
 
-I repeated the need for her. **I said, I hear your husband say that he has a need for economic security for the family**. Can you just hear that? Within a couple of repetitions, she was able to see that his need was to protect the family economically, and that's why he wasn't letting her write any checks.
+und ich hielt sie an, und ich sagte, halt, halt. Also beachten Sie, sie hat diese Kritik so lange gehört, dass selbst wenn er seine Bedürfnisse ausdrückt, sie es nicht hören kann. Sie hört immer noch die Kritik. Wir zahlen für jede Kritik, die die Menschen uns machen hören. Das macht es umso schwieriger für sie, unsere Menschlichkeit zu sehen, was wir fühlen, was wir brauchen.
+
+Ich wiederholte das Bedürfnis für sie. **Ich höre, dein Ehemann sagt, dass er ein Bedürfnis nach wirtschaftlicher Sicherheit für die Familie hat**. Kannst du das einfach hören? Nach ein paar Wiederholungen konnte sie sehen, dass sein Bedürfnis darin bestand, die Familie wirtschaftlich zu schützen, und das war der Grund, warum er sie keine Schecks schreiben ließ.
 
 34:01  
-And then I helped her express her needs. Her needs were that she needed to be trusted that she could learn how to handle money. She wanted understanding and empathy from her husband that because she had overdrawn the checkbook didn't mean she couldn't learn. 
+Und dann half ich ihr, ihre Bedürfnisse auszudrücken. Ihre Bedürfnisse waren, dass sie vertraut werden musste, dass sie lernen konnte, wie man mit Geld umgeht. Sie wollte Verständnis und Empathie von ihrem Ehemann dafür, dass sie das Scheckbuch überzogen hatte, bedeutete nicht, dass sie nicht lernen konnte.
 
-I said to the husband, **I hear your wife saying that she has a need to be trusted that she can learn, that's her need**. Could you repeat that back? 
+Ich sagte zu dem Ehemann, **ich höre, deine Frau sagt, dass sie ein Bedürfnis hat, vertraut zu werden, dass sie lernen kann, das ist ihr Bedürfnis**. Könntest du das zurückgeben?
 
-He said, we'll be poor by then. 
+Er sagte, wir werden bis dahin arm sein.
 
-Again, an example of how once we have a set image of people, it's hard for us to see their humaneness. We get stuck in our diagnosis of them. 
+Wieder ein Beispiel dafür, wie wir, wenn wir einmal ein festes Bild von Menschen haben, es schwer haben, ihre Menschlichkeit zu sehen. Wir bleiben in unserer Diagnose von ihnen stecken.
 
-It took me a couple more repetitions of her need to be trusted, before he could just hear that, and keep separate his diagnoses of her. 
+Ich wiederholte die Bedürfnisse, die beide hatten, ich sagte, also beim Hören Ehemann, dass du ein Bedürfnis nach wirtschaftlicher Sicherheit für die Familie hast, du möchtest sicherstellen, dass alles, was getan wird, die Familie wirtschaftlich schützt?
 
-I repeated the needs that both had, I said, so on hearing husband that you have a need for economic security for the family, you want to be sure that whatever is done protects the family economically? 
+Er sagte, Das stimmt.
 
-He said, That's right. 
+Und ich sagte zu ihr, und du hast ein Bedürfnis, vertraut zu werden, dass du lernen kannst, wie man mit Geld umgeht, wie man Schecks schreibt und andere Dinge?
 
-And I said to her, and you have a need to be trusted, that you can learn how to handle money, how to write checks and do other things? 
+Sie sagte, Das stimmt. Von diesem Zeitpunkt an dauerte es keine 20 Minuten, den Konflikt zu beider Zufriedenheit zu lösen, ein Konflikt, der 39 Jahre andauerte.
 
-She said, That's right. From that point on, it didn't take 20 minutes to resolve the conflict to both of their satisfaction, conflict that had been going on 39 years. 
+Meine Erfahrung war mit Gruppe nach Gruppe oder zwei Menschen, die Konflikte haben. **Wie erstaunlich es ist, dass lang anhaltende Konflikte ziemlich leicht gelöst werden können, wenn wir über die Feindbilder hinwegkommen und die Menschen einfach die Menschlichkeit beider Seiten sehen können**.
 
-My experience has been with group after group, or two people, having conflicts. **How amazing it is that long standing conflicts can be resolved fairly easily, when we get past the enemy images and can just get people to see the humaneness of both sides**. 
+"Das Menschliche" wird in diesem Fall definiert als was sind die Bedürfnisse der Menschen und ihre Bedürfnisse zu hören, ohne irgendein Feindbild von ihnen zu haben, weil sie diese Bedürfnisse haben.
 
-"The human" is being defined in this case is what are people needing what is their needs and to hear their needs without having any enemy image of them for having these needs. 
+### Kriegführende Stämme
 
+*Jetzt schauen wir uns an, wie gewaltfreie Kommunikation die Vermittlung zwischen zwei Gruppen unterstützen kann.*
 
-### Warring Tribes
+Ich wurde gebeten, zwischen zwei Stämmen im Norden Nigerias, in Afrika, zu vermitteln. *Die Stämme waren etwa ein Jahr lang in ernsthaften Krieg verwickelt, wobei etwa 40% der Bevölkerung getötet wurden.*
 
-*Now let's look at how Nonviolent Communication can support mediation between two groups.* 
+Dank eines Kollegen von mir, der sechs Monate lang hart gearbeitet hat, hin und her zu den Häuptlingen jeder Seite, schaffte er es schließlich, die Häuptlinge auf beiden Seiten dazu zu bringen, einer Vermittlung zuzustimmen und mich als Vermittler zu haben.
 
-I was asked to mediate between two tribes in northern Nigeria, in Africa. *The tribes had been involved in serious warfare for about a year, where about 40% of the population had been killed.* 
+Ich war jetzt in einem Raum mit 12 Mitgliedern des christlichen Stammes und 12 Mitgliedern des muslimischen Stammes und ich erklärte ihnen, wie ich Vermittlung mache.
 
-Thanks to a colleague of mine, who put in six months of hard work, going back and forth to the chiefs of each side, he finally got the chiefs on each side to agree to mediate and to have me serve as a mediator. 
-
-I was in a room now with 12 members of the Christian tribe and 12 members of the Muslim tribe and I explained to them how I do mediation. 
-
-> I said, for me, I'm confident we can resolve the conflict without further violence when both sides can clearly express their needs, and be heard by the other side. 
+> Ich sagte, für mich bin ich zuversichtlich, dass wir den Konflikt ohne weitere Gewalt lösen können, wenn beide Seiten ihre Bedürfnisse klar ausdrücken können und von der anderen Seite gehört werden.
 > 
-> My role will be to help people who need my help to express their needs clearly. 
-I will also help each side hear the other side's needs. 
+> Meine Rolle wird es sein, Menschen, die meine Hilfe brauchen, zu helfen, ihre Bedürfnisse klar auszudrücken.
+Ich werde auch jeder Seite helfen, die Bedür
+
+fnisse der anderen Seite zu hören.
 > 
-> I'm confident that when we get everybody's needs expressed and understood, I'm confident we can resolve this conflict without further violence. I then said who would like to begin? 
+> Ich bin zuversichtlich, dass wir diesen Konflikt ohne weitere Gewalt lösen können, wenn wir die Bedürfnisse aller ausgedrückt und verstanden haben. Dann sagte ich, wer möchte beginnen?
 
-The chief from the Christian tribe screams across the table at the Muslims. 
+Der Häuptling vom christlichen Stamm schreit quer über den Tisch zu den Muslimen.
 
-*You people are murderous.* 
+*Du Leute seid mörderisch.*
 
-This stimulated a counter judgment from the Muslim side of the Muslim chief screen back. 
+Das löste ein Gegendiagnose vom muslimischen Teil des muslimischen Häuptlings aus.
 
-*You have been dominating us! We're not going to tolerate it anymore!* 
+*Du hast uns dominiert! Wir werden das nicht mehr tolerieren!*
 
-**notice I asked for needs and what I got back for two diagnoses**. 
+**beachten Sie, ich fragte nach Bedürfnissen und was ich zurückbekam, waren zwei Diagnosen**.
 
-> This is where I think violence is provoked on our planet, when we educate people to think in terms of wrongness of one another, not to think a language of life, to clarify what our needs are and to hear other people's needs. 
+> Das ist, wo ich denke, dass Gewalt auf unserem Planeten provoziert wird, wenn wir Menschen erziehen, in Begriffen der Falschheit des anderen zu denken, nicht in einer Sprache des Lebens, um zu klären, was unsere Bedürfnisse sind und die Bedürfnisse anderer Menschen zu hören.
 
-Well, they were screaming at each other and took quite a bit of energy just to calm things down. But I went back then to the chief who screamed "murder", and using Nonviolent Communication, and being conscious that all such criticism and judgment are tragic expressions of the speaker's needs, I tried to sense what the need was behind that judgment. 
+Nun, sie schrien sich gegenseitig an und es brauchte ziemlich viel Energie, nur um die Dinge zu beruhigen. Aber ich ging dann zurück zu dem Häuptling, der "Mörder" schrie, und unter Verwendung gewaltfreier Kommunikation, und mir bewusst, dass jede solche Kritik und jedes Urteil tragische Ausdrücke der Bedürfnisse des Sprechers sind, versuchte ich zu erfassen, welches Bedürfnis hinter diesem Urteil stand.
 
-I said to the chief who screamed it. I said, *Chief, are you saying that your need for safety isn't being met, and that you would like some reassurance that whatever conflicts exist, you would want them to be resolved without violence*. 
+Ich sagte zu dem Häuptling, der es schrie. Ich sagte, *Häuptling, sagen Sie, dass Ihr Bedürfnis nach Sicherheit nicht erfüllt wird und dass Sie eine Zusicherung möchten, dass, welche Konflikte auch immer bestehen, Sie möchten, dass sie ohne Gewalt gelöst werden*.
 
-He looked at me for a moment, because he's not used to looking at his own needs. He's much more used to criticizing the other. 
+Er schaute mich einen Moment an, weil er es nicht gewohnt war, seine eigenen Bedürfnisse zu betrachten. Er war viel mehr daran gewöhnt, den anderen zu kritisieren.
 
-After a second or so he said, *that's exactly what I'm saying*. 
+Nach einer Sekunde oder so sagte er, *das ist genau das, was ich sage*.
 
-I repeated his needs. So your need is for safety, and you want to be sure that whatever the conflict, it's resolved without violence? 
+Ich wiederholte seine Bedürfnisse. Also Ihr Bedürfnis ist nach Sicherheit, und Sie möchten sicherstellen, dass, welcher Konflikt auch immer, er ohne Gewalt gelöst wird?
 
-He said, That's right! 
+Er sagte, Das stimmt!
 
-And I looked across the table and ask the chiefs from the Muslim tribes, and I said, but one of the chiefs on this side of the table, please tell me what the chief said his needs were. And one of the chiefs from the Muslim side scream back then why did you kill my son? Well, obviously the pain that he was in made it very hard for him to hear the needs of the other chief. 
+Und ich schaute über den Tisch und fragte die Häuptlinge der muslimischen Stämme, und ich sagte, aber einer der Häuptlinge auf dieser Seite des Tisches, bitte sagen Sie mir, was der Häuptling sagte, dass seine Bedürfnisse waren. Und einer der Häuptlinge von der muslimischen Seite schreit dann zurück, warum hast du meinen Sohn getötet? Nun, offensichtlich machte es der Schmerz, den er erlebte, als Folge davon, dass sein Sohn getötet wurde, sehr schwer für ihn, die Bedürfnisse des anderen Häuptlings zu hören.
 
-And it took a little bit of work on my part to give him some emergency empathy. And then after he felt understood for the pain he was experiencing as a result of his son having been killed. I went back to helping him hear the need of the chief on the other side. It wasn't easy. But he finally could hear that the other chief was saying he had a need for safety. 
+Und es brauchte ein wenig Arbeit meinerseits, um ihm etwas Notfall-Empathie zu geben. Und dann, nachdem er sich verstanden fühlte für den Schmerz, den er als Folge des Todes seines Sohnes erlebte. Ging ich zurück dazu, ihm zu helfen, das Bedürfnis des Häuptlings auf der anderen Seite zu hören. Es war nicht einfach. Aber er konnte schließlich hören, dass der andere Häuptling sagte, er habe ein Bedürfnis nach Sicherheit.
 
-I asked the Muslim chiefs, *Who here would like to express a need*? 
+Ich fragte die muslimischen Häuptlinge, *Wer hier möchte ein Bedürfnis ausdrücken*?
 
-And then the one who originally spoke up and screamed, *they have been trying to dominate us for all of these years, and we're not going to take it anymore*. 
+Und dann sprach derjenige, der ursprünglich aufgestanden war und geschrien hatte, *sie haben versucht, uns all diese Jahre zu dominieren, und wir werden das nicht mehr hinnehmen*.
 
-And I translated that judgment, that diagnosis, into a need. I said, Chief, are you saying your need for equality is not being met, in some of the decisions that are being made? 
+Und ich übersetzte dieses Urteil, diese Diagnose, in ein Bedürfnis. Ich sagte, Häuptling, sagen Sie, dass Ihr Bedürfnis nach Gleichheit nicht erfüllt wird, bei einigen der Entscheidungen, die getroffen werden?
 
-He stopped for a moment because he wasn't used to having his needs expressed, he was much more used to diagnosing the other side. 
+Er hielt für einen Moment inne, weil er es nicht gewohnt war, seine Bedürfnisse auszudrücken, er war viel mehr daran gewohnt, die andere Seite zu diagnostizieren.
 
-But he said yes, that's my need. 
+Aber er sagte ja, das ist mein Bedürfnis.
 
-Then I had to help the other side to hear that, and it wasn't easy. We had to repeat it two or three times, because again, when we have these enemy images of one another, it makes it hard to hear the truth. The truth being defined is what does this human being need. Now, when we get the focus on needs, we see that there is no conflict, all human beings have the same needs. 
+Dann musste ich der anderen Seite helfen, das zu hören, und das war
 
-#### The conflict is never at the need level. 
+ nicht einfach. Wir mussten es zwei oder drei Mal wiederholen, denn wieder, wenn wir diese Feindbilder voneinander haben, macht es schwer, die Wahrheit zu hören. Die Wahrheit wird definiert als was braucht dieser Mensch. Jetzt, wenn wir den Fokus auf Bedürfnisse legen, sehen wir, dass es keinen Konflikt gibt, alle Menschen haben die gleichen Bedürfnisse.
 
-The conflict is in the thinking of both sides, it turns the other side into an enemy. The thinking is in terms of strategies for meeting one's own needs and not the other person's needs. 
+#### Der Konflikt ist nie auf der Bedürfnisebene.
 
-**When we can get both sides seeing each other's humaneness We can then look for strategies that get everybody's needs met**. 
+Der Konflikt liegt im Denken beider Seiten, das die andere Seite zum Feind macht. Das Denken ist in Begriffen von Strategien, um die eigenen Bedürfnisse zu erfüllen und nicht die Bedürfnisse der anderen Person.
 
-It took about an hour just to get both sides to express a need and to hear the other side's needs. At that point, one of the chiefs who hadn't spoken yet said to me, Marshall, if we know how to communicate this way, we don't have to kill each other. 
+**Wenn wir beide Seiten dazu bringen können, die Menschlichkeit des anderen zu sehen, können wir dann nach Strategien suchen, die die Bedürfnisse aller erfüllen**.
 
-I'm convinced we don't have to have violence if we can learn how to connect with each other's needs. When we're conscious that we all have the same needs, when we're conscious that our enemy images of one another get in the way of our connecting at the need level. And when we see we can never win at someone else's expense.
+Es dauerte etwa eine Stunde, nur um beide Seiten dazu zu bringen, ein Bedürfnis auszudrücken und die Bedürfnisse der anderen Seite zu hören. Zu diesem Zeitpunkt sagte einer der Häuptlinge, der noch nicht gesprochen hatte, zu mir, Marshall, wenn wir wissen, wie wir auf diese Weise kommunizieren können, müssen wir uns nicht gegenseitig töten.
+
+Ich bin überzeugt, dass wir keine Gewalt haben müssen, wenn wir lernen können, uns mit den Bedürfnissen der anderen zu verbinden. Wenn wir uns bewusst sind, dass wir alle die gleichen Bedürfnisse haben, wenn wir uns bewusst sind, dass unsere Feindbilder voneinander uns daran hindern, uns auf der Bedürfnisebene zu verbinden. Und wenn wir sehen, dass wir niemals auf Kosten eines anderen gewinnen können.
 
 42:51  
-#### That's how Nonviolent Communication can support us in mediation. 
+#### So kann gewaltfreie Kommunikation uns in der Vermittlung unterstützen.
 
-If we are skilled at Nonviolent Communication, and a group invites us to come in and mediate, like I was invited to mediate between the Christian tribes and the Muslim tribes, we can loan our Nonviolent Communication skills, we can loan our empathy skills by helping each side translate their criticism or judgments of the other into their needs, and then helping the other side to hear it. 
+Wenn wir in gewaltfreier Kommunikation geschult sind und eine Gruppe uns einlädt, als Vermittler zu kommen, wie ich eingeladen wurde, zwischen den christlichen Stämmen und den muslimischen Stämmen zu vermitteln, können wir unsere Fähigkeiten in gewaltfreier Kommunikation, unsere Empathiefähigkeiten verleihen, indem wir jeder Seite helfen, ihre Kritik oder Urteile über den anderen in ihre Bedürfnisse zu übersetzen und dann der anderen Seite helfen, das zu hören.
 
-Now, we can do that even when we're not invited in as a mediator, when we have these skills within our families, if we see two of the children fighting with each other, blaming each other, we can do the same thing, even though it wouldn't be seen as an official mediation. 
+Jetzt können wir das tun, auch wenn wir nicht als Vermittler eingeladen sind, wenn wir diese Fähigkeiten in unseren Familien haben, wenn wir sehen, dass zwei der Kinder miteinander streiten, sich gegenseitig die Schuld geben, können wir dasselbe tun, auch wenn es nicht als offizielle Vermittlung angesehen würde.
 
-We can do it as just loaning people the skills when they are in conflict and don't know how to solve it. If the two children are fighting with each other, we can help them identify their needs and Help each side hear each other's needs. 
+Wir können es einfach tun, indem wir den Menschen die Fähigkeiten verleihen, wenn sie in einem Konflikt sind und nicht wissen, wie sie ihn lösen sollen. Wenn die beiden Kinder miteinander streiten, können wir ihnen helfen, ihre Bedürfnisse zu identifizieren und jeder Seite helfen, die Bedürfnisse des anderen zu hören.
 
-## Reconciliation
+## Versöhnung
 
-*We've looked at healing mediation, and seeing how empathic connection helps in these areas. Let's look at a related area, reconciliation*. 
+*Wir haben uns die Heilung und Vermittlung angesehen und gesehen, wie empathische Verbindung in diesen Bereichen hilft. Lassen Sie uns einen verwandten Bereich betrachten, die Versöhnung*.
 
-It's very similar to mediation, except that in mediation, we have some specific conflicts that haven't been resolved, and we try to resolve them through the use of Nonviolent Communication and reconciliation. 
+Es ist sehr ähnlich wie Vermittlung, außer dass in der Vermittlung einige spezifische Konflikte haben, die nicht gelöst wurden, und wir versuchen, sie durch die Verwendung gewaltfreier Kommunikation zu lösen und Versöhnung.
 
-It's not necessarily that there's a specific conflict that's alive right now, that needs to be resolved, but ongoing animosity or pain between two individuals or between two groups. 
+Es ist nicht unbedingt so, dass es einen spezifischen Konflikt gibt, der gerade lebendig ist, der gelöst werden muss, aber anhaltende Feindseligkeit oder Schmerz zwischen zwei Individuen oder zwischen zwei Gruppen.
 
-Once again, like in mediation, if we have Nonviolent Communication skills, **if we have the ability to empathize, to empathically connect with what people's needs are behind judgmental messages they make of the other side. We can be of great support to them in reconciliation and creating harmony between the two sides**. 
+Noch einmal, wie bei der Vermittlung, wenn wir gewaltfreie Kommunikationsfähigkeiten haben, **wenn wir die Fähigkeit haben, empathisch zu verbinden, um zu verstehen, welche Bedürfnisse der Menschen hinter den urteilenden Nachrichten stehen, die sie über die andere Seite machen. Wir können ihnen in der Versöhnung große Unterstützung bieten und Harmonie zwischen den beiden Seiten schaffen**.
 
-<u>For example, in Israel and Palestine</u>, I was able to identify groups that wanted to work on reconciliation. They wanted to know how to relate more peacefully with the other side. So I met with a group of about 15 Israelis and 15 Palestinians for the purpose of reconciliation, helping get beyond their pain and learning how to work together toward creating peace in the area. 
+<u>Zum Beispiel in Israel und Palästina</u>, konnte ich Gruppen identifizieren, die an der Versöhnung arbeiten wollten.
 
-I started the session with these 30 People somewhat like I do mediation sessions I said, I'd like to have us talk about what needs of ours are presently not getting met my experiences and if we can understand each other's needs, it will be better able to connect with each other in ways that we can work together for peace in the region. So anyone who would like to express your needs, please start. 
+ Sie wollten wissen, wie sie friedlicher mit der anderen Seite umgehen könnten. Also traf ich mich mit einer Gruppe von etwa 15 Israelis und 15 Palästinensern zu dem Zweck der Versöhnung, um über ihren Schmerz hinauszukommen und zu lernen, wie sie zusammenarbeiten könnten, um Frieden in der Region zu schaffen.
 
-A mayor from a Palestinian village, in response to my suggesting that people express their needs, he looked across the table at the Israelis and said, 
+Ich begann die Sitzung mit diesen 30 Personen ähnlich wie ich Vermittlungssitzungen mache, ich sagte, ich möchte, dass wir darüber sprechen, welche Bedürfnisse von uns derzeit nicht erfüllt werden, meine Erfahrungen und wenn wir die Bedürfnisse des anderen verstehen können, werden wir besser in der Lage sein, miteinander in Verbindung zu treten, auf eine Weise, dass wir zusammen für den Frieden in der Region arbeiten können. Also, wer möchte seine Bedürfnisse ausdrücken, bitte beginnen.
 
-#### *Do you people enjoy acting like Nazis?* 
+Ein Bürgermeister aus einem palästinensischen Dorf, als Reaktion auf meinen Vorschlag, dass die Menschen ihre Bedürfnisse ausdrücken, schaute über den Tisch zu den Israelis und sagte,
 
-He was referring to a law, at that time, which allowed Palestinians to be put in jail on suspicion for up to six months without a trial. This, of course, was very painful to the Palestinians to feel that they could be un just suspicion, put in jail for up to six months. 
+#### *Genießt ihr es, wie Nazis zu handeln?*
 
-This was the Mayor's way of trying to express to the Palestinians how painful it was, how his needs for safety and respect weren't being met. His need for fairness and justice weren't being met. Very strong needs, but he didn't have the vocabulary to express these needs in that way. It came out, in the way that he expressed, *Are you satisfied to be acting like Nazis?*
+Er bezog sich auf ein Gesetz, das zu dieser Zeit galt, das es erlaubte, Palästinenser bis zu sechs Monate lang ohne Prozess ins Gefängnis zu stecken, wenn sie verdächtigt wurden. Das war natürlich sehr schmerzhaft für die Palästinenser zu fühlen, dass sie aufgrund eines bloßen Verdachts bis zu sechs Monate ins Gefängnis gesteckt werden konnten.
+
+Das war die Art und Weise, wie der Bürgermeister versuchte, den Palästinensern zu vermitteln, wie schmerzhaft es war, wie seine Bedürfnisse nach Sicherheit und Respekt nicht erfüllt wurden. Seine Bedürfnisse nach Fairness und Gerechtigkeit wurden nicht erfüllt. Sehr starke Bedürfnisse, aber er hatte nicht den Wortschatz, diese Bedürfnisse auf diese Weise auszudrücken. Es kam heraus, auf die Art und Weise, wie er es ausdrückte, *Seid ihr zufrieden, wie Nazis zu handeln?*
 
 47:44  
-Almost immediately, an Israeli women jumped up and started to go to the door and said to me, I knew I shouldn't have come to this meeting. I knew you couldn't work with these people. I jumped up and ran after her before she ran out, to give her some emergency empathy, I empathized with how painful it was for her to hear that. 
+Fast sofort sprang eine israelische Frau auf und ging zur Tür und sagte zu mir, ich wusste, ich hätte nicht zu diesem Treffen kommen sollen. Ich wusste, man kann nicht mit diesen Leuten arbeiten. Ich sprang auf und rannte ihr nach, bevor sie rausrannte, um ihr etwas Notfall-Empathie zu geben, ich empathisierte mit, wie schmerzhaft es für sie war, das zu hören.
 
-When she felt that I really understood her, she could hear my needs. I told her that I was confident that if she could come back, we could communicate and hear each other in a way that we could work together. 
+Als sie fühlte, dass ich sie wirklich verstand, konnte sie meine Bedürfnisse hören. Ich sagte ihr, dass ich zuversichtlich war, dass wenn sie zurückkommen könnte, wir kommunizieren und einander auf eine Weise hören könnten, dass wir zusammenarbeiten könnten.
 
-She first reluctantly came over, sat down, and I helped her to understand what the mayor of his village was trying to say. 
+Sie kam zuerst widerwillig zurück, setzte sich, und ich half ihr zu verstehen, was der Bürgermeister seines Dorfes zu sagen versuchte.
 
-I said to him, from your statement, what I'm understanding is it the law is very painful for you this law that allows Palestinians to be put in jail on suspicion, for up to six months? 
+Ich sagte zu ihm, von Ihrer Aussage, was ich verstehe, ist es das Gesetz sehr schmerzhaft für Sie, dieses Gesetz, das es erlaubt, Palästinenser auf Verdacht, für bis zu sechs Monate ins Gefängnis zu stecken?
 
-He says *it's very painful, it's not fair*. 
+Er sagt *es ist sehr schmerzhaft, es ist nicht fair*.
 
-You'd like some understanding of how painful it is, and how it doesn't meet your need for fairness or justice?
+Du möchtest etwas Verständnis dafür, wie schmerzhaft es ist, und wie es dein Bedürfnis nach Fairness oder Gerechtigkeit nicht erfüllt?
 
-He said, *That's right*. 
+Er sagte, *Das stimmt*.
 
-Then I had the Israeli woman, that was so hurt by and frightened by the message, I had her reflect that back. She could then see what he really meant behind the words, and of course, the energy between the two of them changed. 
+Dann hatte ich die israelische Frau, die so verletzt und erschrocken von der Nachricht war, das zurückzuspiegeln. Sie konnte dann sehen, was er wirklich hinter den Worten meinte, und natürlich änderte sich die Energie zwischen den beiden.
 
-#### Here is an example of Nonviolent Communication in reconciliation work when you're trying to get two groups to work together. 
+#### Hier ist ein Beispiel für gewaltfreie Kommunikation in Versöhnungsarbeit, wenn Sie versuchen, zwei Gruppen dazu zu bringen, zusammenzuarbeiten.
 
-Conflicts like this come up, where they start to have criticism of one another. The reconciliation takes the form of helping empathic connection take place by helping people to identify what their needs are, that are not being met, and how to express it without putting it in the form of any criticism. 
+Konflikte wie dieser kommen auf, wo sie anfangen, Kritik aneinander zu haben. Die Versöhnung nimmt die Form an, eine empathische Verbindung herzustellen, indem den Menschen geholfen wird zu identifizieren, welche ihre Bedürfnisse sind, die nicht erfü
 
-If the people don't know how to do it that way, and the other side gets incensed by it, **We can contribute to the reconciliation by helping the people on the receiving side learn how to hear the needs that are being expressed through the message**. 
+llt werden, und wie sie es ausdrücken können, ohne es in Form irgendeiner Kritik zu setzen.
 
-> I have worked with this kind of reconciliation efforts in both the Middle East between Israelis and Palestinians. I have done it between the different groups at war in Serbia and Croatia. I have worked with people in Rwanda, the Hutus and the Tutsis. 
+Wenn die Menschen nicht wissen, wie sie es auf diese Weise tun sollen, und die andere Seite dadurch empört wird, **können wir zur Versöhnung beitragen, indem wir den Menschen auf der empfangenden Seite helfen zu lernen, wie sie die Bedürfnisse hören können, die durch die Nachricht ausgedrückt werden**.
+
+> Ich habe mit dieser Art von Versöhnungsbemühungen sowohl im Nahen Osten zwischen Israelis und Palästinensern gearbeitet. Ich habe es zwischen den verschiedenen Gruppen gemacht, die in Serbien und Kroatien im Krieg waren. Ich habe mit Menschen in Ruanda gearbeitet, den Hutus und den Tutsis.
 > 
-> It's very hopeful for me to see how groups that have been through a lot of pain in relationship to one another for long periods of time, how the reconciliation can be furthered when we can assist both sides to express their own needs to hear the other side's needs, not to hear any criticism, but just to see each other's humaneness. 
+> Es ist sehr hoffnungsvoll für mich zu sehen, wie Gruppen, die in Bezug aufeinander über lange Zeiträume viel Schmerz erlebt haben, wie die Versöhnung weitergeführt werden kann, wenn wir beiden Seiten helfen können, ihre eigenen Bedürfnisse auszudrücken, die Bedürfnisse der anderen Seite zu hören, keine Kritik zu hören, sondern einfach die Menschlichkeit des anderen zu sehen.
 
-I had a similar experience in the United States when I was mediating between a group of landowners and a group of Mexican farmworkers. The tension was about farmworkers walking through the property of the landowners, as they came in each day to wait on a street corner for people to pick them up and hire them for work in the fields that day. They lived up in the mountains, in shacks, and the quickest way for them to get down, to where they could be hired, required going through the property of other people. This had stimulated a good deal of violence between the two groups.
+Ich hatte eine ähnliche Erfahrung in den Vereinigten Staaten, als ich zwischen einer Gruppe von Grundbesitzern und einer Gruppe mexikanischer Landarbeiter vermittelte. Die Spannung drehte sich darum, dass die Landarbeiter jeden Tag durch das Eigentum der Grundbesitzer gingen, als sie an einer Straßenecke ankamen, um darauf zu warten, dass die Menschen sie abholten und sie für Arbeiten auf den Feldern an diesem Tag einstellten. Sie lebten in den Bergen, in Hütten, und der schnellste Weg für sie, dorthin zu gelangen, wo sie eingestellt werden konnten, erforderte das Durchqueren des Eigentums anderer Leute. Dies hatte eine Menge Gewalt zwischen den beiden Gruppen ausgelöst.
 
-The mayor had previously arranged for the two groups to get together to talk about it. But the sessions had started off very difficult and got even worse. So I was asked if I would come and apply Nonviolent Communication in the restoration of peace and harmony between these two warring sides. 
+Der Bürgermeister hatte zuvor arrangiert, dass sich die beiden Gruppen treffen, um darüber zu sprechen. Aber die Sitzungen hatten sehr schwierig angefangen und wurden noch schlimmer. Also wurde ich gefragt, ob ich kommen und gewaltfreie Kommunikation in der Wiederherstellung von Frieden und Harmonie zwischen diesen beiden verfeindeten Seiten anwenden könnte.
 
-We had about 20 from each side in the room. When I asked who would like to start, whoever would like to start, I'd like to hear your needs being expressed. I'm confident if everybody expresses their needs, and hear's everybody's needs, will be quite able to create more harmony between us. 
+Wir hatten etwa 20 von jeder Seite im Raum. Als ich fragte, wer anfangen möchte, wer möchte anfangen, ich möchte Ihre Bedürfnisse ausgedrückt hören. Ich bin zuversichtlich, wenn jeder seine Bedürfnisse ausdrückt und die Bedürfnisse aller hört, werden wir in der Lage sein, mehr Harmonie zwischen uns zu schaffen.
 
-Who would like to start? 
+Wer möchte anfangen?
 
-Well, one of the farmworkers screamed across, *you people are racist*. 
+Nun, einer der Landarbeiter schrie quer durch, *ihr Leute seid rassistisch*.
 
-One of the landowners screamed back, *You people don't have any respect for property*. 
+Einer der Grundbesitzer schrie zurück, *Ihr Leute habt keinen Respekt vor Eigentum*.
 
-And once again, my job as the person trying to contribute to reconciliation, I tend to translate these judgments they had of each other had to help each side hear the other side's needs. 
+Und wieder einmal war meine Aufgabe als die Person, die versucht, zur Versöhnung beizutragen, diese Urteile, die sie voneinander hatten, zu übersetzen, um jeder Seite zu helfen, die Bedürfnisse der anderen Seite zu hören.
 
-**After about two and a half hours of doing this, both sides could see how helpful it would be to continue to have discussions where they could keep hearing each other's needs and not see each other as enemies**. 
+**Nach etwa zweieinhalb Stunden des Tuns konnten beide Seiten sehen, wie hilfreich es wäre, weiterhin Diskussionen zu führen, bei denen sie weiterhin die Bedürfnisse des anderen hören und sich nicht als Feinde sehen könnten**.
 
-They agreed to continue these kinds of discussions, and it turned out to greatly help the two sides work in harmony with each other.
+Sie stimmten zu, diese Art von Diskussionen fortzusetzen, und es stellte sich heraus, dass es den beiden Seiten sehr half, in Harmonie miteinander zu arbeiten.
 
-#### Buy this course at [Soundstrue.com](https://nonviolent-communication-sfm.soundstrue.com/)!!! 
+#### Kaufen Sie diesen Kurs bei [Soundstrue.com](https://nonviolent-communication-sfm.soundstrue.com/)!!!
 
-## Resources
+## Ressourcen
 
-* [The Myth of mental illness](https://en.wikipedia.org/wiki/The_Myth_of_Mental_Illness), Thomas Szasz
+* [The Myth of Mental Illness](https://en.wikipedia.org/wiki/The_Myth_of_Mental_Illness), Thomas Szasz
 * [Legacy of the Heart: The Spiritual Advantage of a Painful Childhood](https://www.goodreads.com/book/show/303061.Legacy_of_the_Heart), Wayne Muller
+  
